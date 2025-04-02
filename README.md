@@ -1,1 +1,1 @@
-Arch Linux + BSPWM test configuration
+my dotfiles
